@@ -1,1 +1,1 @@
-大姨妈预测器（某人专用版）
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).# practiceNext
